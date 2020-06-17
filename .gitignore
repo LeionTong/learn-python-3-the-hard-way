@@ -1,2 +1,18 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
 .idea/
-test.txt
+*.txt
+!ex15_sample.txt
+!languages.txt
